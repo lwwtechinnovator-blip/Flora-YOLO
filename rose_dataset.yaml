@@ -1,0 +1,11 @@
+
+path: 
+train: images/train
+val: images/val
+test: images/test
+
+
+nc: 5
+
+
+names: ['Degree0', 'Degree1', 'Degree2', 'Degree3', 'Degree4']
